@@ -1,5 +1,5 @@
 <?php
-echo "aaaaaaaHello";
+echo "kddi test"
 echo '<br>';
 echo "kddi test"
 ?>
